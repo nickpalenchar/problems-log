@@ -1,37 +1,8 @@
-[test](#showingkilling-sql-processes)
+## Contents
 
+[Showing/killing SQL Processes.](#showingkilling-sql-processes)
 
-
-
-
-
-u
-eou
-eo
-uaeo
-u
-oea
-u
-eo
-u
-oea
-u
-oea
-uo
-eau
-oe
-au
-
-eoa
-uoe
-au
-oe
-au
-oe
-
-
-
-
+---
 
 ### Showing/killing SQL Processes.
 
